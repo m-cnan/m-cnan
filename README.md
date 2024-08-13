@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-cnan.m-cnan&"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Mohammed Sinan</h1>
 
 ###
@@ -49,5 +56,21 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m-cnan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/m-cnan/m-cnan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/m-cnan/count.svg?"  />
+</div>
 
 ###
