@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=m-cnan.m-cnan&"  />
 </div>
@@ -70,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/m-cnan/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-cnan.m-cnan&left_color=black&left_text=Views"  />
 </div>
 
 ###
