@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a passionate student developer from India<br>📚 I'm currently learning python<br>⚡ I also have experience in C , C++ ,HTML and SQL</h3>
+<h3 align="center">I'm a passionate student developer from India<br>⚡ I am an experienced programmer in C , C++ and Python<br>Web development skills: HTML, CSS, Postgres<br>Under Development:Javascript, Django</h3>
 
 ###
 
