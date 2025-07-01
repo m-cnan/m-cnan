@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sinan</h1>
 
 <h3 align="center">
-Hey there! I'm Sinan – a passionate student developer<br>
+A passionate student developer<br>
 🚀 Tech Stack: C, C++, Python (NumPy, Pandas, PyTorch, TensorFlow*)<br>
 🌐 HTML, CSS, JavaScript, PostgreSQL<br><br>
 🧠 Currently building with Django, diving deep into AI/ML/Data Science<br>
