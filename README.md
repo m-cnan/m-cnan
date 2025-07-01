@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sinan</h1>
 
 <h3 align="center">
-Hey there! I'm Sinan – a passionate student developer from India 🇮🇳<br><br>
-🚀 Tech Stack<br><br>
-💻 C, C++<br><br>
-🐍 Python (NumPy, Pandas, PyTorch, TensorFlow*)<br><br>
-🌐 HTML, CSS, JavaScript<br><br>
-🗄️ PostgreSQL<br><br>
-🧠 Currently building with Django, diving deep into AI/ML/Data Science<br><br>
-🐧 I use Arch, btw<br><br>
-🎯 What I'm up to<br><br>
-Exploring Machine Learning & Deep Learning<br><br>
-Working on Fullstack Web Projects (Django + JS)<br><br>
-Always learning, always building<br><br>
-📚 Dual Degree Student: B.Tech CSE + BS in Data Science (IITM)<br><br>
-🌱 Growth is the mission. Let’s build something cool.
+Hey there! I'm Sinan – a passionate student developer<br>
+🚀 Tech Stack: C, C++, Python (NumPy, Pandas, PyTorch, TensorFlow*)<br>
+🌐 HTML, CSS, JavaScript, PostgreSQL<br>
+🧠 Currently building with Django, diving deep into AI/ML/Data Science<br>
+🎯 Exploring Machine Learning & Deep Learning<br>
+💻 Working on Fullstack Web Projects (Django + JS)<br>
+📚 Dual Degree Student: B.Tech CSE + BS in Data Science (IITM)<br>
+🌱 Growth is the mission. Let’s build something cool.<br>
+🐧 I use Arch, btw
 </h3>
 
 ---
@@ -63,20 +58,17 @@ Always learning, always building<br><br>
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
+<h3 align="center">🔥 Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-cnan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-cnan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-cnan&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-cnan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-cnan&layout=compact&theme=tokyonight&hide_border=false" height="180" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=m-cnan&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
 ---
-
-<h3 align="center">🐍 Contribution Graph</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/m-cnan/m-cnan/output/snake.svg" alt="Snake animation" />
