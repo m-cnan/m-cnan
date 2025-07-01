@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sinan</h1>
 
 <h3 align="center">
-Hey there! I'm Sinan – a passionate student developer<br>
-🚀 Tech Stack: C, C++, Python (NumPy, Pandas, PyTorch, TensorFlow*)<br>
-🌐 HTML, CSS, JavaScript, PostgreSQL<br><br>
+Hey there! I'm Sinan – a passionate student developer<br><br>
 🧠 Currently building with Django, diving deep into AI/ML/Data Science<br>
 🎯 Exploring Machine Learning & Deep Learning<br><br>
 💻 Working on Fullstack Web Projects (Django + JS)<br>
@@ -28,11 +26,11 @@ Hey there! I'm Sinan – a passionate student developer<br>
 ---
 
 <h3 align="center">🔥 Stats</h3>
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=m-cnan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=m-cnan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-cnan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ---
 
 <div align="center">
