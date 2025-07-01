@@ -3,11 +3,11 @@
 <h3 align="center">
 Hey there! I'm Sinan – a passionate student developer<br>
 🚀 Tech Stack: C, C++, Python (NumPy, Pandas, PyTorch, TensorFlow*)<br>
-🌐 HTML, CSS, JavaScript, PostgreSQL<br>
+🌐 HTML, CSS, JavaScript, PostgreSQL<br><br>
 🧠 Currently building with Django, diving deep into AI/ML/Data Science<br>
-🎯 Exploring Machine Learning & Deep Learning<br>
+🎯 Exploring Machine Learning & Deep Learning<br><br>
 💻 Working on Fullstack Web Projects (Django + JS)<br>
-📚 Dual Degree Student: B.Tech CSE + BS in Data Science (IITM)<br>
+📚 Dual Degree Student: B.Tech CSE + BS in Data Science (IITM)<br><br>
 🌱 Growth is the mission. Let’s build something cool.<br>
 🐧 I use Arch, btw
 </h3>
