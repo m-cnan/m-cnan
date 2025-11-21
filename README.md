@@ -4,7 +4,7 @@
 A passionate student developer<br>
 🧠 Currently diving deep into AI/ML/Data Science<br>
 🎯 Exploring Machine Learning & Deep Learning<br><br>
-💻 Working on Fullstack Web Projects (Django + JS)<br>
+💻 Working on AI, LLM and Transformers<br>
 📚 Dual Degree Student: B.Tech CSE + BS in Data Science (IITM)<br><br>
 🌱 Growth is the mission. Let’s build something cool.<br>
 🐧 I use Arch, btw
